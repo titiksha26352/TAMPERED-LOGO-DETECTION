@@ -23,13 +23,14 @@ decorator==5.1.1
 dill==0.3.7
 executing==2.0.1
 filelock==3.13.1
-Flask==3.0.0
+Flask==2.3.3
 Flask-Mail==0.9.1
 flatbuffers==23.5.26
 fonttools==4.46.0
 frozenlist==1.4.1
 fsspec==2023.10.0
 gast==0.4.0
+gunicorn==21.2.0
 google-auth==2.26.2
 google-auth-oauthlib==1.0.0
 google-pasta==0.2.0
@@ -117,3 +118,4 @@ wcwidth==0.2.12
 websocket-client==1.7.0
 Werkzeug==3.0.1
 wrapt==1.16
+
